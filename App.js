@@ -139,6 +139,7 @@ const [recipesLoaded, setRecipesLoaded] = useState(false);
   const [selectedDay, setSelectedDay] = useState(0);
   const [selectedRecipe, setSelectedRecipe] = useState(null);
   const [pickerSlot, setPickerSlot] = useState(null);
+  const [pickerSearch, setPickerSearch] = useState('');
   const [search, setSearch] = useState('');
   const [category, setCategory] = useState('Vše');
   const [formVisible, setFormVisible] = useState(false);
@@ -981,7 +982,15 @@ if (!session) {
             <Text style={styles.subtitle}>
               {mealSlots.find(s => s.id === pickerSlot)?.name}
             </Text>
-            {recipes.map(recipe => (
+            <TextInput
+  style={styles.input}
+  placeholder="Hledat recept..."
+  value={pickerSearch}
+  onChangeText={setPickerSearch}
+/>
+            {recipes.filter(recipe =>
+  recipe.name.toLowerCase().includes(pickerSearch.toLowerCase())
+).map(recipe => (
               <TouchableOpacity
                 key={recipe.id}
                 style={styles.recipeCard}
