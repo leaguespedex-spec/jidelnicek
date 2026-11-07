@@ -1,0 +1,1344 @@
+[
+  {
+    "id": "excel-001",
+    "name": "Pečivo s avokádem, tuňákem a vejcem",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "avokádo",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "vejce",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "tuňák",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "pečivo",
+        "amount": 2,
+        "unit": "ks"
+      },
+      {
+        "name": "citrón",
+        "amount": 1,
+        "unit": "lžička"
+      },
+      {
+        "name": "cibule",
+        "amount": 1,
+        "unit": "trochu"
+      }
+    ],
+    "instructions": "Avokádo vydlabeme a vidličkou rozmačkáme, osolíme.Plátky pečiva si rozřízneme napůl, potřeme avokádem, zakápneme citrónem, přidáme tuňák, cibulku a vejce.Podáváme se zeleninou.\n\nDoplňující údaje z Excelu:\nNA 1 PORCI : 1 celé menší zralé avokádo\n1 vařené vejce\n4 lžičky tuňáka ve vlastní šťávě\n2 plátky pečiva, nebo 4 rýžové chlebíčky\npár kapek citrónu\ntrochu cibule\nsůl"
+  },
+  {
+    "id": "excel-002",
+    "name": "Slané proteinové palačinky se sýrem a šunkou",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "mouka",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "vejce",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "mléko",
+        "amount": 75,
+        "unit": "ml"
+      },
+      {
+        "name": "šunka",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "sýr",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "olej",
+        "amount": 0.5,
+        "unit": "lžička"
+      }
+    ],
+    "instructions": "V misce smíchej mouku, vejce, mléko a sůl, vytvoř hladké těsto.Na pánvi rozehřej olej/máslo a z těsta připrav tenké palačinky.Můžeš palačinky lehce potřít kvalitním kečupem.Do hotové palačinky vlož šunku a sýr, přelož na polovinu a nech chvíli prohřát, aby se sýr rozpustil.Podávej teplé – můžeš doplnit listovým salátem nebo okurkou.\n\nDoplňující údaje z Excelu:\nNA 2 PORCE : 80 g ovesné mouky (nebo pohankové pro bezlepkovou variantu)\n2 bio vejce\n150 ml mléka (rostlinné nebo kravské)\nšpetka soli\n4 plátky kvalitní šunky\n60 g sýra (gouda, ementál nebo mozzarella)\n1 lžička oleje nebo másla na smažení"
+  },
+  {
+    "id": "excel-003",
+    "name": "Smoothie s proteinem a borůvkami",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "sojové mléko",
+        "amount": 300,
+        "unit": "ml"
+      },
+      {
+        "name": "ovesné vločky",
+        "amount": 1,
+        "unit": "lžíce"
+      },
+      {
+        "name": "kešu",
+        "amount": 1,
+        "unit": "hrst"
+      },
+      {
+        "name": "protein",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "mražené ovoce",
+        "amount": 1,
+        "unit": "hrst"
+      }
+    ],
+    "instructions": "Všechny ingredience rozmixujeme v mixéru a můžeme vesele popíjet!\n\nDoplňující údaje z Excelu:\nNA 1 PORCI : 300 ml sójového mléka\n1 lžíce ovesných bezlepkových vloček\nhrst kešu oříšků\n25 g SixFitness čokoládového proteinu s chia semínky\nhrst mražených borůvek"
+  },
+  {
+    "id": "excel-004",
+    "name": "Šunkofleky",
+    "category": "Ostatní",
+    "portions": 7,
+    "ingredients": [
+      {
+        "name": "těstoviny",
+        "amount": 57,
+        "unit": "g"
+      },
+      {
+        "name": "šunka",
+        "amount": 71,
+        "unit": "g"
+      },
+      {
+        "name": "mozzarella",
+        "amount": 21,
+        "unit": "g"
+      },
+      {
+        "name": "mléko",
+        "amount": 28,
+        "unit": "ml"
+      },
+      {
+        "name": "vejce",
+        "amount": 1,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "Těstoviny uvaříme v osolené vodě podle návodu na skus.\nPředehřejeme si troubu na 180°C.\nŠunku nakrájíme na kostičky a nastrouháme si mozzarellu.\nSmícháme vejce s mlékem, osolíme a opepříme.\nTěstoviny dáme do zapékací mísy, přidáme šunku, sýr, promícháme a zalijeme vaječnou směsí\nPečeme bez pokličky cca 40 minut.\n\nDoplňující údaje z Excelu:\nNA 7 PORCÍ : 400 g celozrných/bezlepkových těstovin (nejlépe vřetena)\n500 g krůtí šunky\n150 g mozzarelly light\n200 ml polotučného mléka\n7 ks vajec\nsůl\npepř\ndomácí kyselá okurka"
+  },
+  {
+    "id": "excel-005",
+    "name": "4 rýžové chlebíčky + 100 g šunky + Gervais + zelenina",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "rýžový chlebíček",
+        "amount": 4,
+        "unit": "ks"
+      },
+      {
+        "name": "šunka",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "gervais",
+        "amount": 0.5,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "Chlebíčky oblož. Podávej s oblíbenou zeleninou.\n\nDoplňující údaje z Excelu:\nNA 1 PORCI : 4 rýžové chlebíčky\n100 g kvalitní šunky\nGervais"
+  },
+  {
+    "id": "excel-006",
+    "name": "Treska se zeleninou",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "treska",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cuketa",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "paprika",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "cherry",
+        "amount": 1,
+        "unit": "hrst"
+      },
+      {
+        "name": "č cibule",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "česnek stroužek",
+        "amount": 2,
+        "unit": "ks"
+      },
+      {
+        "name": "oliváč",
+        "amount": 0.5,
+        "unit": "lžíce"
+      },
+      {
+        "name": "citrónová šťáva",
+        "amount": 1,
+        "unit": "lžička"
+      },
+      {
+        "name": "tymián",
+        "amount": 1,
+        "unit": "lžička"
+      }
+    ],
+    "instructions": "Tresku osol a zakápni citronem.\nNakrájej zeleninu na menší kousky.\nNa plech dej pečicí papír, rozlož zeleninu, zakápni olejem a posyp bylinkami.\nPřidej tresku mezi zeleninu.\nPeč v troubě na 190 °C cca 20–25 minut.\nPodávej s bramborami, quinoou nebo jen tak, lehce s citronem.\n\nDoplňující údaje z Excelu:\nNA 2 PORCE : 2 filety tresky (cca 300–400 g)\n1 cuketa\n1 paprika (červená nebo žlutá)\n1 hrst cherry rajčátek\n1 menší červená cibule\n2 stroužky česneku\n1 lžíce olivového oleje\ncitronová šťáva\nčerstvý tymián nebo rozmarýn\nsůl, pepř dle chuti"
+  },
+  {
+    "id": "excel-007",
+    "name": "Caprese tousty",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "toust",
+        "amount": 70,
+        "unit": "g"
+      },
+      {
+        "name": "b pesto",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "mozzarella",
+        "amount": 70,
+        "unit": "g"
+      },
+      {
+        "name": "rajče",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "bazalka",
+        "amount": 2,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "Tousty namažeme bazalkovým pestem a poskládáme na ně plátky mozzarelly a rajčat.\nPřidáme bazalkové lístky a ještě můžeme posypat sušenou bazalkou.\nZapečeme v toustovači a můžeme podávat .\n\nDoplňující údaje z Excelu:\n70 g toustového chleba nebo 2 plátky celozrnného pečiva\n10 g bazalkového pesta\n70 g mozzarella light\n100 g rajčat\npár lístků čertsvé bazalky"
+  },
+  {
+    "id": "excel-008",
+    "name": "200g bílý jogurt, hrst vloček a ořechů, med",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "jogurt",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "ovesné vločky",
+        "amount": 1,
+        "unit": "hrst"
+      },
+      {
+        "name": "vlašák",
+        "amount": 1,
+        "unit": "hrst"
+      },
+      {
+        "name": "med",
+        "amount": 1,
+        "unit": "lžíce"
+      }
+    ],
+    "instructions": "Pouze smíchat\n\nDoplňující údaje z Excelu:\n200g bílý jogurt, hrst vloček a ořechů, med"
+  },
+  {
+    "id": "excel-009",
+    "name": "Greek těstovinový salát zastudena",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "těstoviny",
+        "amount": 110,
+        "unit": "g"
+      },
+      {
+        "name": "balkán",
+        "amount": 75,
+        "unit": "g"
+      },
+      {
+        "name": "č cibule",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "oliva",
+        "amount": 1,
+        "unit": "hrst"
+      },
+      {
+        "name": "cherry",
+        "amount": 2,
+        "unit": "hrst"
+      },
+      {
+        "name": "baby špenát",
+        "amount": 10,
+        "unit": "ks"
+      },
+      {
+        "name": "oliváč",
+        "amount": 2,
+        "unit": "lžíce"
+      }
+    ],
+    "instructions": "Těstoviny uvaříme podle návodu.\nPoté na pánvi na olivovém oleji těstoviny krátce orestujeme, podle chuti dochutíme solí a pepřem.\nNásledně smícháme s nakrájenou fetou, cibulkou, listy špenátů, s olivami a cherry rajčátky překrojené napolovinu.\n\nDoplňující údaje z Excelu:\nNA 2 PORCE : celozrnné/kukuřičné těstoviny\n150 g sýru feta (balkánského sýra)\n1 menší cibule\n2 hrsti černých oliv\n3 hrsti cherry rajčátek\nněkolik listů baby špenátu\nolivový olej\npepř\nsůl"
+  },
+  {
+    "id": "excel-010",
+    "name": "Brokolicová omeleta",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "mozzarella",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "vejce",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "brokolice",
+        "amount": 1,
+        "unit": "trochu"
+      },
+      {
+        "name": "máslo",
+        "amount": 20,
+        "unit": "g"
+      }
+    ],
+    "instructions": "V misce si smícháme vejce.\nPřidáme brokolici s najemno nastrouhanou mozzarellou, osolíme a opepříme.\nNa pánvi rozpustíme máslo a přilijeme připravenou směs, přidáme na kostičky nakrájenou mozzarellu, přiklopíme pokličkou.\nDusíme dokud se vajíčka neudělají.\nHotové podáváme s celozrnným pečivem, nebo knäckebroty\n\nDoplňující údaje z Excelu:\nNA 2 PORCE : 50 g mozzarelly\n2 bio vejce\n,pár „hlaviček“ brokolice\nsůl a pepř\nkousek másla"
+  },
+  {
+    "id": "excel-011",
+    "name": "Tuna pomodoro",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "tuňák",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "č cibule",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "cuketa",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "mozzarella",
+        "amount": 1,
+        "unit": "hrst"
+      },
+      {
+        "name": "kečup",
+        "amount": 2,
+        "unit": "lžíce"
+      },
+      {
+        "name": "těstoviny",
+        "amount": 110,
+        "unit": "g"
+      }
+    ],
+    "instructions": "Na trošce oleje zpěníme nadrobno nakrájenou cibulku, přidáme nastrouhanou cuketu.\nCuketu takto vaříme asi 5 minut, vmícháme tuňáky (bez šťávy), přidáme 4 - 5 lžic kečupu, osolíme a opepříme.\nNa závěr vmícháme nastrouhaný sýr. Podáváme s těstovinami.\n\nDoplňující údaje z Excelu:\nNA 2 PORCE : 300 g tuňák ve vlastní šťávě\n1 menší cibulka\n1 menší cuketa\nstrouhaný sýr s nižším obsahem tuku\nkečup bez cukru\nsůl\npepř\nbezlepkové/celozrnné těstoviny"
+  },
+  {
+    "id": "excel-012",
+    "name": "Turbo kari omáčka",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "prsa",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "špagety",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "smetana 16%",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "č cibule",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "oliváč",
+        "amount": 1,
+        "unit": "lžička"
+      }
+    ],
+    "instructions": "V osolené vodě si uvaříme špagety.\nNa trošce olivového oleje si osmahneme nadrobno nakrájenou cibulku.\nPo chvilce přidáme na kostičky nakrájené maso, za stálého míchání počkáme až se zatáhne.\nPřilijeme nízkou smetanu, osolíme, opepříme a přidáme kari koření.\nSpolečně ještě krátce povaříme a můžeme podávat.\n\nDoplňující údaje z Excelu:\nNA 2 PORCE : 300 g bio krůtích prsou\n160 g celozrnné/bezlepkové špagety\n200 g 16% smetany na vaření\n1 menší cibulka\npár kapek olivového oleje\n1 lžíce kari koření\nsůl\npepř"
+  },
+  {
+    "id": "excel-013",
+    "name": "Salát s krůtím, pestem a oříšky",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "prsa",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "ledový salát",
+        "amount": 0.3,
+        "unit": "ks"
+      },
+      {
+        "name": "okurka",
+        "amount": 0.3,
+        "unit": "ks"
+      },
+      {
+        "name": "paprika",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "cherry",
+        "amount": 3,
+        "unit": "ks"
+      },
+      {
+        "name": "vlašák",
+        "amount": 0.5,
+        "unit": "hrst"
+      },
+      {
+        "name": "b pesto",
+        "amount": 0.5,
+        "unit": "lžička"
+      },
+      {
+        "name": "parmezán",
+        "amount": 0.5,
+        "unit": "hrst"
+      }
+    ],
+    "instructions": "Všechnu zeleninu si nakrájíme tak jak to máme rádi a dáme do mísy.\nMaso si nakrájíme na menší kostičky, osolíme, opepříme a na olivovém oleji na pánvi opečeme.\nAž se maso zatáhne tak přidáme nadrcené vlašské ořechy, poté ho posypeme parmezánem a párkrát na pánvi prohodíme.\nHotové maso dáme do mísy se zeleninou.\nPosypeme parmezánem a navrch dáme lžičku bazalkového pesta.\n\nDoplňující údaje z Excelu:\nNA 2 PORCE : 300 g krůtích bio prsou\n1/2 ledového salátu\n1/3 okurky\n1 paprika\n6 cherry rajčat\n1 hrst vlašských ořechů\nbazalkové pesto\nparmezán\nsůl\npepř"
+  },
+  {
+    "id": "excel-014",
+    "name": "Lívance ze špaldové mouky",
+    "category": "Ostatní",
+    "portions": 5,
+    "ingredients": [
+      {
+        "name": "mouka",
+        "amount": 0.4,
+        "unit": "hrnek"
+      },
+      {
+        "name": "mléko",
+        "amount": 0.3,
+        "unit": "hrnek"
+      },
+      {
+        "name": "vejce",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "prdopeč",
+        "amount": 0.2,
+        "unit": "lžíce"
+      },
+      {
+        "name": "cukr",
+        "amount": 0.4,
+        "unit": "lžíce"
+      },
+      {
+        "name": "olej",
+        "amount": 0.4,
+        "unit": "lžíce"
+      }
+    ],
+    "instructions": "Všechny suroviny smícháme tyčovým mixérem.\nNa pánvi na lívance opékáme z obou stran na trošce másla.\nPodáváme s tvarohem a ovocem.\n\nDoplňující údaje z Excelu:\nNA 5 PORCÍ : 2 hrnky špaldové mouky\n1 a půl hrnku sójového mléka\n2 vejce\n1 lžíce přášku do pečiva\n2 lžíce třtinového cukru\n2 lžíce řepkového oleje"
+  },
+  {
+    "id": "excel-015",
+    "name": "Plněná tortilla",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "tortilla",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "prsa",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "jogurt",
+        "amount": 70,
+        "unit": "g"
+      },
+      {
+        "name": "česnek stroužek",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "č cibule",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "paprika",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "okurka",
+        "amount": 0.3,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "Nejdříve si připravíme jogurtový dresink. Smícháme jogurt se stroužkem česneku, čerstvými bylinkami, solí a pepřem.\nKuřecí maso nakrájíme na nudličky, osolíme, opepříme a osmažíme na pánvi na troše oleje.\nTortillu si ohřejeme v troubě, nebo v mikrovlnné troubě, pomažeme jí připraveným dresinkem, přidáme ledový salát, okurku nakrájenou na nudličky, papriku, rajče, cibuli a na závěr přidáme kousky masa.\nTortillu zarolujeme a můžeme podávat.\n\nDoplňující údaje z Excelu:\nNA 2 PORCE : 2 celozrnné/bezlepkové tortilly\n200 g kuřecí prsa\n140 g bílý jogurt\nsůl a pepř\nčerstvé bylinky\nstroužek česneku\nzelenina (ledový salát, okurka, paprika, rajče, cibule)"
+  },
+  {
+    "id": "excel-016",
+    "name": "Těstoviny s mletým masem a mozzarellou",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "těstoviny",
+        "amount": 110,
+        "unit": "g"
+      },
+      {
+        "name": "prsa",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "mozzarella",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "č cibule",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "česnek stroužek",
+        "amount": 2,
+        "unit": "ks"
+      },
+      {
+        "name": "omáčka Panzani",
+        "amount": 3,
+        "unit": "lžíce"
+      }
+    ],
+    "instructions": "Na trošce oleje si orestujeme nadrobno nakrájenou cibulku a prolisovaný česnek.\nPřidáme maso a za stálého míchání necháme maso zatáhnout.\nJakmile se maso zatáhne přidáme omáčku a společně chvíli povaříme.\nTěsně před koncem přidejte ke směsi nastrouhanou mozzarellu.\nPodle chuti můžeme ještě dochutit solí a pepřem.\nPodáváme společně s těstovinami.\n\nDoplňující údaje z Excelu:\nNA 2 PORCE : oblíbené těstoviny\n200 g mletého bio drubežího masa\n120 g mozzarella\n1 menší cibulka\n4 stroužky česneku\n4 - 5 lžic omáčky Panzani - Napolenata\nsůl\npepř"
+  },
+  {
+    "id": "excel-017",
+    "name": "Chia puding",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "kokosový nápoj",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "jahody",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "chia",
+        "amount": 2,
+        "unit": "lžíce"
+      },
+      {
+        "name": "med",
+        "amount": 1,
+        "unit": "lžíce"
+      }
+    ],
+    "instructions": "Jahody nakrájíme a rozmixujeme v kokosovém mléce.\nPřidáme chia semínka a dosladíme medem.\n\nDoplňující údaje z Excelu:\n200 ml kokosového nápoje\n200 g čerstvých jahod\n2 lžíce chia semínek\nmed na doslazení"
+  },
+  {
+    "id": "excel-018",
+    "name": "Cottage wrap",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "cottage",
+        "amount": 1,
+        "unit": "hrnek"
+      },
+      {
+        "name": "vejce",
+        "amount": 2,
+        "unit": "ks"
+      },
+      {
+        "name": "koření bagel",
+        "amount": 1,
+        "unit": "lžička"
+      },
+      {
+        "name": "sezam",
+        "amount": 1,
+        "unit": "špetka"
+      }
+    ],
+    "instructions": "Náplň dle chuti - já jsem použila krutí šunku, sýr, papriky, kyselou okurku, listy salátu a špenátu a pálivou omáčku\nTroubu předehřejte na 180C.\nCottage a vejce rozmixujte v mixéru.\nVlijte na plech vyložený pečícím papírem, posypte kořením a pečte 35 minut.\nNechte vychladnout, naplňte a zarolujte.\n\nDoplňující údaje z Excelu:\n1 hrnek cottage sýra\n2 bio vejce\neverything bagel koření (nebo dle chuti) - sůl, sušený česnek, sušená cibulka\nsezamová a maková semínka"
+  },
+  {
+    "id": "excel-019",
+    "name": "Pečená ovesná kaše",
+    "category": "Ostatní",
+    "portions": 3,
+    "ingredients": [
+      {
+        "name": "ovesné vločky",
+        "amount": 33,
+        "unit": "g"
+      },
+      {
+        "name": "mléko",
+        "amount": 66,
+        "unit": "g"
+      },
+      {
+        "name": "banán",
+        "amount": 0.3,
+        "unit": "ks"
+      },
+      {
+        "name": "protein",
+        "amount": 1,
+        "unit": "lžíce"
+      },
+      {
+        "name": "vejce",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "mražené ovoce",
+        "amount": 1,
+        "unit": "hrst"
+      },
+      {
+        "name": "chia",
+        "amount": 1,
+        "unit": "lžička"
+      },
+      {
+        "name": "mandle",
+        "amount": 1,
+        "unit": "hrst"
+      }
+    ],
+    "instructions": "Ovesné vločky zalijte ohřátým mlékem a nechte cca 10 minut odležet.\nRozklepněte vejce a oddělte bílek od žloutku.\nŽloutek a banán rozmixujte a vzniklou směs přidejte k vločkám.\nDo bílku přidejte špetku soli a vyšlehejte a přidejte také k vločkám. Přimíchat ke směsi můžete například i chia semínka.\nFormu na pečení (použila jsem 20 x 15) vymažte máslem a připravenou kaši do ní vlijte.\nNavrch přidejte mandle a posypte kaši mraženým lesním ovocem.\nPečeme v troubě předehřáté na 180 stupňů přibližně 25 minut.\n\nDoplňující údaje z Excelu:\nNA 3 PORCE : 100 g jemných bezlepkových ovesných vloček\n200 ml sójového mléka\n1 zralý banán\n1 odměrka SixFitness čokoládového proteinu\n1 vejce\nšpetka soli\nkousek másla na vymazání formy\nmražené ovoce\nchia podle chuti\nmandle, nebo jiné oříšky podle chuti"
+  },
+  {
+    "id": "excel-020",
+    "name": "Avokádový toust se ztraceným vejcem",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "toust",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "avokádo",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "vejce",
+        "amount": 2,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "Krajíc chleba opečeme z obou stran dokřupava.\nAvokádo oloupeme a nakrájíme na plátky, které vyskládáme na chléb.\nV hrnci přivedeme k varu vodu a poté vytvoříme lžíci vír do kterého vyklepneme vejce.\nNecháme cca 2 - 4 min zatáhnout bílek a poté lžíci vejce vytáhneme.\nStejný postup zopakujeme i s druhým vejcem.\nObě potom položíme na chléb, osolíme, opepříme a rozkrojíme žloutek - měl by zůstat tekutý.\n\nDoplňující údaje z Excelu:\nkrajíc kvalitního chleba\n1/2 avokáda\n2 vejce\nsůl,pepř"
+  },
+  {
+    "id": "excel-021",
+    "name": "Pudink s tvarohem",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "puding",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "cukr",
+        "amount": 2,
+        "unit": "lžička"
+      },
+      {
+        "name": "tvaroh",
+        "amount": 125,
+        "unit": "g"
+      },
+      {
+        "name": "mražené ovoce",
+        "amount": 1,
+        "unit": "hrst"
+      }
+    ],
+    "instructions": "Pudink uvaříme podle návodu se sójovým mlékem, osladíme třtinovým cukrem, nebo medem.\nPo uvaření pudink smícháme s tvarohem, rozdělíme do dvou svačinových boxů a podle chuti zasypeme čerstvým ovocem, kokosem, kakaem, nebo třeba loupanými mandlemi.\n\nDoplňující údaje z Excelu:\nNA 2 PORCE : 1 sáček vanilkového/čokoládového pudinku bez lepku\nsójové mléko\n1 lžíce třtinového cukru, nebo medu\n250 g polotučného tvarohu\novoce podle chuti/Holandské kakao/kokos/ořechy"
+  },
+  {
+    "id": "excel-022",
+    "name": "Vytuněné karbanátky",
+    "category": "Ostatní",
+    "portions": 5,
+    "ingredients": [
+      {
+        "name": "mleté kuřecí",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "mrkev",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "česnek stroužek",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "sýr",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "vejce",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "jogurt",
+        "amount": 0.5,
+        "unit": "lžíce"
+      },
+      {
+        "name": "ovesné vločky",
+        "amount": 0.5,
+        "unit": "hrst"
+      },
+      {
+        "name": "mléko",
+        "amount": 1,
+        "unit": "lžíce"
+      }
+    ],
+    "instructions": "Všechny suroviny ve velké míse pořádně zamícháme a pomocí rukou vytvoříme stejně velké bochánky.\nHotové karbanátky dáme na plech s pečícím papírem a pečeme 40 - 45 minut na 200 stupňů.\nPodáváme s brambory, nebo bramborovou kaší a zeleninou.\nTip\n✨Z hotové směsi vyjde cca 15 karbanátků, na jednu porci doporučuji 2 až 3.\n\n✨ Pokud chcete karbanátků méně, tak stačí udělat recept jen z polovičních surovin.\n\nDoplňující údaje z Excelu:\nNA 5 PORCÍ : 1 kg mletého bio kuřecího/krůtího masa\n2 střední nastrouhané mrkve nahrubo\nhrst petržele nakrájené najemno\n4 prolisované stroužky česneku\n100 g nastrouhaného 20 - 30 % sýra\n2 vejce\n2 lžíce bílého jogurtu\n3 hrsti jemných ovesných vloček bez lepku\n5 lžic mléka\n2 malé lžičky soli\nšpetka pepře\nšpetka oblíbeného koření (já používám směs koření s čili papričkami z Bali)"
+  },
+  {
+    "id": "excel-023",
+    "name": "Čočka beluga s vejcem a krůtím",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "čočka beluga",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "vejce",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "prsa",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions": "Čočku uvaříme v osolené vodě podle návodu na obalu.\nUvaříme vejce.\nMaso osolíme, opepříme, přidáme oblíbené koření a orestujeme na pánvi na řepkovém oleji.\nTip\nČočku nemusíte namáčet, stačí ji 20 minut povařit. \nBeluga má ve svém složení černý pigment, který podmiňuje její zbarvení.\nPrávě tento pigment je zdrojem antioxidantů, které se nacházejí také v bobulích (borůvky, ostružiny). \nNaše tělo tedy chrání před volnými radikály a zabraňuje tak stárnutí buněk.\n\nDoplňující údaje z Excelu:\nčočka beluga\n1 vařené vejce\n100 g BIO krůtí maso\ndomácí kyselé okurk"
+  },
+  {
+    "id": "excel-024",
+    "name": "250g pečená treska, 100g beluga, zelenina",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "treska",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "čočka beluga",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions": "Tresku můžeš orestovat na pánvi na trošce oleje. Osol, opepři, přidej oblíbené bylinky.\nPodávej s vařenou belugou a zeleninou.\n\nDoplňující údaje z Excelu:\ntreska\n100 g čočka beluga"
+  },
+  {
+    "id": "excel-025",
+    "name": "Shakshouka",
+    "category": "Ostatní",
+    "portions": 3,
+    "ingredients": [
+      {
+        "name": "vejce",
+        "amount": 2,
+        "unit": "ks"
+      },
+      {
+        "name": "č cibule",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "paprika",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "česnek stroužek",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "protlak",
+        "amount": 1,
+        "unit": "lžička"
+      },
+      {
+        "name": "sekané rajčata",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "fazole",
+        "amount": 2,
+        "unit": "lžíce"
+      },
+      {
+        "name": "olej",
+        "amount": 3,
+        "unit": "lžička"
+      }
+    ],
+    "instructions": "Cibuli a česnek nakrájíme najemno, papriku na kostičky.\nRozpálíme si malou hlubokou pánev s olejem, orestujeme cibuli, přidáme papriku a česnek.\nNecháme rozvonět, přidáme chilli, mletý římský kmín, mletou papriku. Promícháme, přidáme protlak, krájená rajčata, fazole a znovu promícháme.\nStáhneme plamen a necháme 5 - 10 minut podusit, osolíme, opepříme, promícháme a následně si vařečkou uděláme malé důlky a vyklepneme dovnitř vejce.\nNecháme dodělat přiklopené pokličkou (cca 7 minut). Poté posypeme petrželkou.\n\nDoplňující údaje z Excelu:\nNA 3 PORCE : 6 bio vajec\n1 menší cibule\n1 ks červená paprika\n2 stroužky česneku\n4 lžičky rajčatového protlaku\n1 konzerva sekaných rajčat\nněkolik lžící fazolí (pokud máte rádi)\nuzená mletá paprika\nmletý římský kmín\nchilli, sůl, pepř,\n3 lžičky oleje\nčerstvá petrželka na ozdobu"
+  },
+  {
+    "id": "excel-026",
+    "name": "Turbo krůtí na uzené paprice",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "prsa",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "uzená paprika",
+        "amount": 0.5,
+        "unit": "lžíce"
+      },
+      {
+        "name": "gervais fit protein",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "rýže",
+        "amount": 100,
+        "unit": "g"
+      }
+    ],
+    "instructions": "Uvaříme si rýži podle návodu. Maso si nakrájíme dle libosti na menší nebo větší kousky.\nMaso osolíme, opepříme, okořeníme paprikou a dáme na trochu oleje orestovat na pánev.\nPodlijeme trochou vody a až se maso zatáhne tak vmícháme 1 kelímek gervais.\nChvilku to necháme probublat a máme hotovo.\n\nDoplňující údaje z Excelu:\nNA 2 PORCE : 300 g krůtí maso\n1 lžíce uzené papriky (koření)\n1 balení gervais fit protein\nsůl\npepř\npár kapek oleje\nrýže"
+  },
+  {
+    "id": "excel-027",
+    "name": "Salát s kuřecím masem a jogurtem",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "prsa",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "hrozny",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "řecký jogurt",
+        "amount": 1.5,
+        "unit": "lžíce"
+      },
+      {
+        "name": "ořechy",
+        "amount": 1,
+        "unit": "lžíce"
+      },
+      {
+        "name": "baby špenát",
+        "amount": 2,
+        "unit": "hrnek"
+      }
+    ],
+    "instructions": "Maso orestujeme na troše oleje, osolíme a opepříme, necháme vychladnout.\nDo misky dáme listy špenátu, všechny ostatní ingredience a připravené maso.\nPromícháme a můžeme podávat.\n\nDoplňující údaje z Excelu:\nNA 2 PORCE : 300 g kuřecích prsou\n1 hrnek červených hroznů bez pecek rozkrojených na poloviny\n3 lžíce bílého řeckého jogurtu\nšpetka soli a pepře\n4 hrnky čerstvého baby špenátu\n2 lžíce pekanových nebo vlašských ořechů"
+  },
+  {
+    "id": "excel-028",
+    "name": "Vaječná tortilla",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "vejce",
+        "amount": 2,
+        "unit": "ks"
+      },
+      {
+        "name": "tortilla",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "niva",
+        "amount": 1,
+        "unit": "trochu"
+      },
+      {
+        "name": "šunka",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "kečup",
+        "amount": 1,
+        "unit": "lžíce"
+      }
+    ],
+    "instructions": "Vajíčka si v misce rozkvedláme.\nPřidáme špetku soli a pepře a uděláme omeletu na trošce oleje.\nTortillu dáme na 1 minutu do mikrovlnky.\nOmeletu potřeme kečupem bez cukru.\nPřidáme na ní trochu nivy a šunku a zabalíme do tortilly.\n\nDoplňující údaje z Excelu:\n2 bio vajíčka\n1 celozrnná tortilla\nsůl a pepř\nkousek nivy\n50 g vysokoprocentní šunky\nkečup bez cukru"
+  },
+  {
+    "id": "excel-029",
+    "name": "Čokoládový termix",
+    "category": "Ostatní",
+    "portions": 3,
+    "ingredients": [
+      {
+        "name": "puding",
+        "amount": 0.3,
+        "unit": "ks"
+      },
+      {
+        "name": "tvaroh",
+        "amount": 83,
+        "unit": "g"
+      },
+      {
+        "name": "mléko",
+        "amount": 166,
+        "unit": "g"
+      },
+      {
+        "name": "kakao",
+        "amount": 1,
+        "unit": "lžička"
+      },
+      {
+        "name": "cukr",
+        "amount": 1,
+        "unit": "lžička"
+      }
+    ],
+    "instructions": "Pudink uvaříme podle návodu na obalu (s mlékem a s třtinovým cukrem).\nAž bude pudink uvařený sundáme ho ze sporáku a vmícháme do něj tvaroh a kakao, pořádně promícháme.\nPodle chuti můžeme ještě dosladit, dáme do mističek a vychladit do lednice.\n\nDoplňující údaje z Excelu:\nNA 3 PORCE : BIO čokoládový pudink (bez lepku)\n250 g polotučného tvarohu\n500 ml polotučného mléka (nebo sójového)\n1 lžíce Holandského kakaa\n4 lžičky třtinového cukru"
+  },
+  {
+    "id": "excel-030",
+    "name": "Kuřecí teriyaki s rýží",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "rýže",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "prsa",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "zelí",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "mrkev",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "houby",
+        "amount": 1,
+        "unit": "hrst"
+      },
+      {
+        "name": "teriyaki omáčka",
+        "amount": 1,
+        "unit": "lžíce"
+      },
+      {
+        "name": "rýžová mouka",
+        "amount": 2,
+        "unit": "lžíce"
+      },
+      {
+        "name": "sezam",
+        "amount": 1,
+        "unit": "hrst"
+      },
+      {
+        "name": "máslo",
+        "amount": 25,
+        "unit": "g"
+      }
+    ],
+    "instructions": "Dáme vařit rýži.\nMaso omyjeme, osolíme a opepříme. Nakrájíme na plátky a obalíme v rýžové mouce.\nMaso poté orestujeme na pánvi dozlatova na másle.\n3 lžičky teriyaki omáčky smícháme s 1/2 hrníčkem vody a maso tím polijeme.\nChvíli povaříme a dáme maso stranou - přikryjeme, aby nám nevychladlo.\nNa stejnou pánev nalijeme cca 100 ml vody a přidáme 1/2 lžičky teriyaki omáčky.\nPřidáme na nudličky nakrájenou mrkev, nasekané zelí a chvíli vaříme.\nDále přidáme na plátky nakrájené houby a nasekané houby enoki, vaříme dokud houby a zelí nezměkne a můžeme podávat.\nMaso se směsí podáváme s vařenou rýží, posypané jarní cibulkou a sezamem.\nPříprava domácí omáčky: Všechny ingredience smícháme v malém hrnci a přivedeme k varu.\nPoté plamen stáhneme a necháme omáčku vařit asi 5 minut, nezapomeňte neustále míchat, dokud omáčka nezhoustne.\nOmáčku nalijeme do zavařovací sklenice a necháme ji vychladnout, než ji uložíme do lednice, nebo ji rovnou použijeme.\n\nDoplňující údaje z Excelu:\nrýže\n300 g kuřecí BIO maso\n1/2 menší hlávky červeného zelí\n2 menší mrkve\nhrst hub enoki\n4 houby shiitake\n3 lžičky omáčky teriyaki Ideálně se sníženým obsahem soli, nebo použijte domácí.\ncca 4 lžíce rýžové mouky\nhrst sezamových semínek na posypání\n1 jarní cibulka na ozdobu\ntrocha másla nebo oleje"
+  },
+  {
+    "id": "excel-031",
+    "name": "Treska s brambory",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "treska",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "česnek stroužek",
+        "amount": 2,
+        "unit": "ks"
+      },
+      {
+        "name": "máslo",
+        "amount": 25,
+        "unit": "g"
+      },
+      {
+        "name": "brambory",
+        "amount": 250,
+        "unit": "g"
+      }
+    ],
+    "instructions": "Rozpálíme pánev a když je opravdu horká, přidáme kousek másla.\nIhned na ní vložíme tresku kůží dolů.\nPečeme 4 minuty.\nZ vrchu tresku osolíme a opepříme.\nPřidáme na ní čerstvé bylinky.\nTresku otočíme a pečeme další 4 minuty.\nPodáváme se brambory a zeleninou.\n\nDoplňující údaje z Excelu:\n2 filety tresky\n2 stroužky česneku\nčerstvé bylinky\nkousek másla\nsůl\npepř"
+  },
+  {
+    "id": "excel-032",
+    "name": "Fit krupicová kaše",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "mléko",
+        "amount": 300,
+        "unit": "ml"
+      },
+      {
+        "name": "krupice",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "kakao",
+        "amount": 0.5,
+        "unit": "lžička"
+      },
+      {
+        "name": "med",
+        "amount": 1,
+        "unit": "lžička"
+      },
+      {
+        "name": "cukr",
+        "amount": 1,
+        "unit": "lžička"
+      },
+      {
+        "name": "máslo",
+        "amount": 5,
+        "unit": "g"
+      }
+    ],
+    "instructions": "V menším hrnci smícháme mléko a med a přivedeme k varu.\nPřisypeme krupici, snížíme plamen a za stálého míchání vaříme asi 4 minutky.\nUvařenou kaši dáme do misky.\nStranou si smícháme kakao s třtinovým cukrem a výslednou směsí posypeme kaši v misce.\nNa závěr si v malém hrnci na mírném plameni rozpustíme máslo a přelijeme s ním obsah misky a můžeme podávat.\n\nDoplňující údaje z Excelu:\n300 ml polotučného mléka\n50 g celozrnné špaldové krupice\n1/2 lžičky Holandského kakaa\n1 lžička medu\n1 lžička moučkového třtinového cukru\n5 g másla"
+  },
+  {
+    "id": "excel-033",
+    "name": "Cizrnový salát",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "cizrna",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "tuňák",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "ledový salát",
+        "amount": 1,
+        "unit": "hrst"
+      },
+      {
+        "name": "sušená rajčata",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "vejce",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "oliváč",
+        "amount": 1,
+        "unit": "lžíce"
+      }
+    ],
+    "instructions": "Sterilovanou nebo doměkka uvařenou cizrnu (fazole) smícháte s tuňákem, pokrájeným ledovým salátem a sušenými rajčaty.\nZakápnete olivovým olejem.\nDochutíme solí a pepřem.\n\nDoplňující údaje z Excelu:\n200 g sterilované, nebo asi 80 g syrové cizrny (přes noc namočíte do vody a ráno uvaříte do měkka) můžete nahradit i fazolemi, pokud cizrnu nemáte v oblibě\n50 g tuňáka v konzervě ve vlastní šťávě\nlist ledového salátu\n20 g sušených rajčat\n1 vařené vejce\nlžíci olivového oleje\nsůl\npepř"
+  },
+  {
+    "id": "excel-034",
+    "name": "Pekanové pomyšlení s medem",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "med",
+        "amount": 1,
+        "unit": "lžíce"
+      },
+      {
+        "name": "pekanové ořechy",
+        "amount": 1,
+        "unit": "hrst"
+      },
+      {
+        "name": "ovesné vločky",
+        "amount": 1.5,
+        "unit": "hrst"
+      },
+      {
+        "name": "sušenky",
+        "amount": 3,
+        "unit": "ks"
+      },
+      {
+        "name": "jogurt",
+        "amount": 1,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "Na teflonové pánvi si roztopíme med, přidáme ovesné vločky a nalámané pekany.\nPražíme dozlatova, těsně před koncem přidáme nalámané sušenky.\nPodáváme s jogurtem, nebo tvarohem.\n\nDoplňující údaje z Excelu:\nNA 2 PORCE : 2 lžíce medu\n2 hrsti pekanů (SixFitness pekany)\n3 hrsti ovesných vloček\n6 sušenek bez cukru (kupuji Gullón fibre)\njogurt/tvaroh"
+  },
+  {
+    "id": "excel-035",
+    "name": "Bowl s hovězím masem a zeleninou",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "hovězí maso",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "rýže",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "paprika",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "cuketa",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "oliváč",
+        "amount": 0.5,
+        "unit": "lžíce"
+      },
+      {
+        "name": "sojovka",
+        "amount": 0.5,
+        "unit": "lžička"
+      },
+      {
+        "name": "česnek stroužek",
+        "amount": 1,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "Rýži uvař podle návodu.\nMaso nakrájej na tenké nudličky, osol, opepři a krátce orestuj na pánvi s kapkou olivového oleje.\nPřidej cibuli, papriku a cuketu nakrájenou na kostičky. Restuj na vyšším plameni cca 5–6 minut, aby zelenina zůstala křupavá.\nDochuť sojovou omáčkou, česnekem a případně chilli.\nPodávej v misce s rýží a posypané čerstvými bylinkami.\n\nDoplňující údaje z Excelu:\nNA 2 PORCE : 300 g bio libového hovězího masa (kýta, roštěná)\n150 g rýže basmati nebo jasmínové\n1 paprika (červená nebo žlutá)\n1 cuketa\n1 menší cibule\n1 lžíce olivového oleje\n1 lžička sojové omáčky\n1 lžička mletého česneku nebo čerstvý stroužek\nsůl, pepř, chilli dle chuti\nčerstvá petržel nebo koriandr na posypání"
+  },
+  {
+    "id": "excel-036",
+    "name": "Cottage s rajčaty",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "cottage",
+        "amount": 140,
+        "unit": "g"
+      },
+      {
+        "name": "rajče",
+        "amount": 2,
+        "unit": "ks"
+      },
+      {
+        "name": "cibule",
+        "amount": 1,
+        "unit": "ks"
+      },
+      {
+        "name": "bazalka",
+        "amount": 1,
+        "unit": "hrst"
+      }
+    ],
+    "instructions": "Rajčata nakrájíme na kostičky, cibuli nadrobno a jednoduše vše smícháme.\nDochutíme solí, pepřem a bazalkou.\nPodáváme s celozrnným pečivem, nebo knäckebroty.\n\nDoplňující údaje z Excelu:\n140 g cottage\n2 větší rajčata\n1 menší cibule\nbazalka\ntrochu soli a pepře"
+  },
+  {
+    "id": "excel-037",
+    "name": "Bílkovinový chléb",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "chleba",
+        "amount": 2,
+        "unit": "plátky"
+      },
+      {
+        "name": "cottage",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "olomoucký",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "instructions": "Pečivo si jednoduše takto ozdobte. Podávejte s oblíbenou zeleninou.\n\nDoplňující údaje z Excelu:\n2 plátky celozrnného pečiva (bezlepkového)\n1/2 cottage s pažitkou\n50 g Olomouckých tvarůžků\nčervená cibulka\nzelenina"
+  },
+  {
+    "id": "excel-038",
+    "name": "Nudle s kuřecím masem a brokolicí",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "vaječné nudle",
+        "amount": 1,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "Vložíme kostku vývaru do hrnce s vodou a poté přivedeme k varu. Přidáme nudle a vaříme 2 minuty. Po té přidáme brokolici a vaříme ještě 2 minuty. (250 ml vývaru si necháme stranou), nudle a zeleninu scedíme.\nRozpálíme pánev nebo wok, přidáme sezamový olej, kousky masa a houby a orestujeme.\nPřidáme česnek, chilli a jarní cibulku nasekanou na kolečka, cca 200 ml vývaru a vaříme dokud se maso krásně nezatáhne.\nPoté přidáme nudle, brokolici a sójovou omáčku. Přilijeme zbytek vývaru smíchaný s lžící mouky a ještě společně povaříme.\nPodáváme s jarní cibulkou a sezamem.\n\nDoplňující údaje z Excelu:\nNA 2 PORCE : 2 hnízda vaječných nudlí\n2 bio kuřecí prsa\nněkolik hlaviček brokolice\n3 jarní cibulky\n3 stroužky česneku\n1 lžíce sezamového oleje\n500 ml zeleninového bio vývaru\n200 g žampiónů\nšpetka soli\n2 lžíce sójové omáčky se sníženým obsahem soli\n1 polévková lžíce špaldové mouky\nsůl\npepř\nsezam k podávání"
+  }
+]
