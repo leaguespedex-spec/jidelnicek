@@ -1340,5 +1340,1016 @@
       }
     ],
     "instructions": "Vložíme kostku vývaru do hrnce s vodou a poté přivedeme k varu. Přidáme nudle a vaříme 2 minuty. Po té přidáme brokolici a vaříme ještě 2 minuty. (250 ml vývaru si necháme stranou), nudle a zeleninu scedíme.\nRozpálíme pánev nebo wok, přidáme sezamový olej, kousky masa a houby a orestujeme.\nPřidáme česnek, chilli a jarní cibulku nasekanou na kolečka, cca 200 ml vývaru a vaříme dokud se maso krásně nezatáhne.\nPoté přidáme nudle, brokolici a sójovou omáčku. Přilijeme zbytek vývaru smíchaný s lžící mouky a ještě společně povaříme.\nPodáváme s jarní cibulkou a sezamem.\n\nDoplňující údaje z Excelu:\nNA 2 PORCE : 2 hnízda vaječných nudlí\n2 bio kuřecí prsa\nněkolik hlaviček brokolice\n3 jarní cibulky\n3 stroužky česneku\n1 lžíce sezamového oleje\n500 ml zeleninového bio vývaru\n200 g žampiónů\nšpetka soli\n2 lžíce sójové omáčky se sníženým obsahem soli\n1 polévková lžíce špaldové mouky\nsůl\npepř\nsezam k podávání"
+  },
+  {
+    "id": "pdf-001",
+    "name": "2 vejce, 50g šunky, 2 plátky pečiva, gervais, zelenina",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "vejce",
+        "amount": 2.0,
+        "unit": "ks"
+      },
+      {
+        "name": "šunka",
+        "amount": 50.0,
+        "unit": "g"
+      },
+      {
+        "name": "pečivo",
+        "amount": 2.0,
+        "unit": "ks"
+      },
+      {
+        "name": "gervais",
+        "amount": 20.0,
+        "unit": "g"
+      }
+    ],
+    "instructions": ""
+  },
+  {
+    "id": "pdf-002",
+    "name": "Losos s bramborovou kaší",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "brambory",
+        "amount": 250.0,
+        "unit": "g"
+      },
+      {
+        "name": "mléko",
+        "amount": 25.0,
+        "unit": "ml"
+      },
+      {
+        "name": "máslo",
+        "amount": 1.0,
+        "unit": "lžíce"
+      }
+    ],
+    "instructions": "upeme a nakrájí tak, 2a5b ym bl yploy lozctue a dáme restovat obou stranách přib me máslo a pokap , přidáme trochu s"
+  },
+  {
+    "id": "pdf-003",
+    "name": "2 plátky pečiva, 150g cottage, zelenina",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "pečivo",
+        "amount": 2.0,
+        "unit": "plátky"
+      },
+      {
+        "name": "cottage",
+        "amount": 150.0,
+        "unit": "g"
+      }
+    ],
+    "instructions": ""
+  },
+  {
+    "id": "pdf-004",
+    "name": "Pečivo s vejcem a fazolemi",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "pečivo",
+        "amount": 0,
+        "unit": "ole opláchneme p\npPláotdkyáváme"
+      },
+      {
+        "name": "vejce",
+        "amount": 2.0,
+        "unit": "ks"
+      },
+      {
+        "name": "fazole",
+        "amount": 4.0,
+        "unit": "lžíce"
+      }
+    ],
+    "instructions": "2 plátky ope od vlažnou vodou s volský4m l žoíkceem če"
+  },
+  {
+    "id": "pdf-005",
+    "name": "250g kefírové mléko, jahody, 1 lžíce medu + hrst semínek",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "kefír",
+        "amount": 250.0,
+        "unit": "g"
+      },
+      {
+        "name": "jahody",
+        "amount": 1.0,
+        "unit": "hrst"
+      },
+      {
+        "name": "med",
+        "amount": 1.0,
+        "unit": "lžíce"
+      },
+      {
+        "name": "semínka",
+        "amount": 1.0,
+        "unit": "hrst"
+      }
+    ],
+    "instructions": ""
+  },
+  {
+    "id": "pdf-006",
+    "name": "140g pečená kuřecí prsa, 100g rýže, zelenina",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "prsa",
+        "amount": 0,
+        "unit": "chuť bylinkami, s\ng Podá"
+      },
+      {
+        "name": "rýže",
+        "amount": 100.0,
+        "unit": "g"
+      }
+    ],
+    "instructions": "olí a pepřem, pe1č vej s rýží a zelen"
+  },
+  {
+    "id": "pdf-007",
+    "name": "Proteinové vafle",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "špaldová mouka",
+        "amount": 0.5,
+        "unit": "hrnek"
+      },
+      {
+        "name": "vejce",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "protein",
+        "amount": 30.0,
+        "unit": "g"
+      },
+      {
+        "name": "mléko",
+        "amount": 50.0,
+        "unit": "ml"
+      },
+      {
+        "name": "tvaroh",
+        "amount": 100.0,
+        "unit": "g"
+      }
+    ],
+    "instructions": "Vše krom bílku smícháme a nakonec přimícháme ušlehaný sníh. Těsto vlijeme na máslem vymazaný waflovač. Hotové vafle podáváme s ovocem, domácí marmeládou, nebo i tvarohem pro navýšení bílkovin."
+  },
+  {
+    "id": "pdf-008",
+    "name": "Toust se šunkou a sýrem",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "toust",
+        "amount": 4.0,
+        "unit": "plátek"
+      },
+      {
+        "name": "šunka",
+        "amount": 40.0,
+        "unit": "g"
+      },
+      {
+        "name": "sýr",
+        "amount": 40.0,
+        "unit": "g"
+      }
+    ],
+    "instructions": ""
+  },
+  {
+    "id": "pdf-009",
+    "name": "Těstovinový salát s lososem",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "losos",
+        "amount": 175.0,
+        "unit": "g"
+      },
+      {
+        "name": "těstoviny",
+        "amount": 90.0,
+        "unit": "g"
+      },
+      {
+        "name": "zelenina",
+        "amount": 0,
+        "unit": ""
+      }
+    ],
+    "instructions": "Těstoviny uvaříme v osolené vodě Lososa vložíme na pečící papír, opepříme a osolíme a upečeme v troubě (200 stupňů na 25 minut). Lososa natrháme a podáváme spolu s těstovinami a zeleninou. Na závěr vše osolíme a zakápneme citrónovou šťávou"
+  },
+  {
+    "id": "pdf-010",
+    "name": "Turbo asijské maso s rýží",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "mleté kuřecí",
+        "amount": 150.0,
+        "unit": "g"
+      },
+      {
+        "name": "rýže",
+        "amount": 90.0,
+        "unit": "g"
+      },
+      {
+        "name": "cibule",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "sójová omáčka",
+        "amount": 0.5,
+        "unit": "lžíce"
+      },
+      {
+        "name": "med",
+        "amount": 0.5,
+        "unit": "lžíce"
+      },
+      {
+        "name": "sušený česnek",
+        "amount": 0.5,
+        "unit": "lžička"
+      },
+      {
+        "name": "škrob",
+        "amount": 0.5,
+        "unit": "lžička"
+      },
+      {
+        "name": "sezam",
+        "amount": 1.5,
+        "unit": "lžíce"
+      }
+    ],
+    "instructions": "Začneme tím, že si dáme vařit rýži (já používám rýžovar). Na trošce oleje ve velké pánvi orestujeme mleté maso, jakmile se zatáhne přidáme najemno nakrájenou středně velkou cibuli, osolíme a opepříme. V hrníčku smícháme sójovou omáčku, med, česnek, škrob, papriku a sezam a smícháme společně s masem. Jakmile bude maso hezky zatáhlé, tak můžeme podávat společně s rýží a lahůdkovou cibulkou."
+  },
+  {
+    "id": "pdf-011",
+    "name": "Nugetky s batáty a nivovým dipem",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "Batátu si na mleté kuřecí",
+        "amount": 0,
+        "unit": "450 g ml\n15\n1 čajová\n1/2 čajové\n1/2\no\nrnek nadrcených\n1\nm\nience na maso s\nyskládám1e4 j0e gn ab ípl\ny, postříkáme2 o llžeíj\nzdušné fri2té szter opuežč\nvíme dip, tak, že\několik lístků čerst\nNa horkgovzdušn"
+      },
+      {
+        "name": "špaldová mouka",
+        "amount": 50.0,
+        "unit": "g"
+      },
+      {
+        "name": "vejce",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "strouhanka",
+        "amount": 1.0,
+        "unit": "hrst"
+      },
+      {
+        "name": "batáta",
+        "amount": 225.0,
+        "unit": "g"
+      },
+      {
+        "name": "jogurt",
+        "amount": 46.0,
+        "unit": "g"
+      },
+      {
+        "name": "zakysaná smetana",
+        "amount": 1.0,
+        "unit": "lžíce"
+      },
+      {
+        "name": "česnek stroužek",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "niva",
+        "amount": 16.0,
+        "unit": "g"
+      }
+    ],
+    "instructions": "etého bio drůbeží 0 g špaldové mou 1 vejce lžička sušeného lžičky papriky uz čajové lžičky pep sůl livový olej ve spre Na obalení: cornflakes, nebo c Na přílohu: středně velká batá sůl pepř letá uzená paprik olej ve spreji Na dip: mícháme a rukam élehcoh ,jo ngeubrotu d, on ehboor ceem z, apkoyssyapneém sem uez keym pero 1li5s omviannuét h(poo smsůícl h- ájemne š pvšeetkcahn Ppoedpářváme s vé nakrájené baz é frit5é0zy g z nniavčyky C"
+  },
+  {
+    "id": "pdf-012",
+    "name": "Batáty s krůtím masem a salátem",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "batáta",
+        "amount": 225.0,
+        "unit": "g"
+      },
+      {
+        "name": "olivový olej",
+        "amount": 1.5,
+        "unit": "lžíce"
+      },
+      {
+        "name": "uzená paprika",
+        "amount": 0.4,
+        "unit": "lžička"
+      },
+      {
+        "name": "tymián",
+        "amount": 0.4,
+        "unit": "lžička"
+      },
+      {
+        "name": "krůtí maso",
+        "amount": 100.0,
+        "unit": "g"
+      },
+      {
+        "name": "česnek - stroužek",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "oregano",
+        "amount": 0.5,
+        "unit": "lžička"
+      },
+      {
+        "name": "citron",
+        "amount": 1.0,
+        "unit": "ml"
+      }
+    ],
+    "instructions": "Příprava batát: Troubu předehřej na 200 °C. Batáty neloupej, jen důkladně omyj a nakrájej na klínky. Promíchej s olejem, paprikou, tymiánem, solí a pepřem. Rozlož na plech a peč 25–30 min, v polovině otoč, dokud nejsou měkké a zlatavé. Příprava masa: Maso nakrájej na sousta, osol, opepři, promíchej s olejem, česnekem a bylinkami; nech 10 min odležet. Rozpal pánev na středně vysokou teplotu, vlož maso a restuj 4–5 min z každé strany, až je propečené a pěkně zlaté. Stáhni z ohně, případně zakápni citronovou šťávou. Podávej s oblíbenou zeleninou, nebo i s jogurtovým dipem."
+  },
+  {
+    "id": "pdf-013",
+    "name": "Zapečené tousty s míchanými vejci",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "toust",
+        "amount": 2.0,
+        "unit": "ks"
+      },
+      {
+        "name": "šunka",
+        "amount": 20.0,
+        "unit": "g"
+      },
+      {
+        "name": "sýr",
+        "amount": 20.0,
+        "unit": "g"
+      },
+      {
+        "name": "vejce",
+        "amount": 2.0,
+        "unit": "ks"
+      }
+    ],
+    "instructions": ""
+  },
+  {
+    "id": "pdf-014",
+    "name": "Vanilkový dezert",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "tvaroh",
+        "amount": 83.0,
+        "unit": "g"
+      },
+      {
+        "name": "sójový Alpro jogurt",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "čoko a ovoce na ozdobu",
+        "amount": 0,
+        "unit": ""
+      }
+    ],
+    "instructions": "Jogurty smícháme s tvarohem. Dáme do skleničky, nebo do krabičky na svačinu, zasypeme strouhanou čokoládou a ozdobíme ovocem."
+  },
+  {
+    "id": "pdf-015",
+    "name": "Tuňákový burger",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "houska na burger",
+        "amount": 0,
+        "unit": "4 housky na\n2 menší kon\nně\nako první si připr\nněkol\nsi připravíme Guc\nš\nAvok\nMáme vše připr\nusky tuňksáka. Na 2"
+      },
+      {
+        "name": "tuňák",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "jogurt",
+        "amount": 70.0,
+        "unit": "g"
+      },
+      {
+        "name": "avokádo",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "paprika",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "ledový salát",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "cibule",
+        "amount": 0.5,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "burger (můžeme i zervy tuňáka ve v 140 g jogurt 1 zralé avokádo kolik koleček okur avím1/e2 dpraepsrsikinag na Pikř ildisátmů ele dsmověésh koo s 1/Z2a cliijbeumlee jog aictraómn onlea ap ookpaepčáen petka soli a peRpoře šápdeotk oac mhuatjíomráen okpy 1 hrst Vkošeri asnmdírcuh ave1n hér sat mkoůpžreume n ěstj rloeudžokvyý čseaslánte ak"
+  },
+  {
+    "id": "pdf-016",
+    "name": "Teplá ovesná kaše s kakaem, semínky a banánem",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "ovesné vlo✨čk yTahle komb",
+        "amount": 0,
+        "unit": "70 g je\nného mléka (např\nV1 mma\nZa stáléh1o l žmič\nV1m lížcičhkeaj kc\n1 lKžiačškia p dřeýnňdoevjý\nPosyp s½em lžíni\nčka ořechového m\nenstruagční fázi –"
+      },
+      {
+        "name": "mléko",
+        "amount": 200.0,
+        "unit": "ml"
+      },
+      {
+        "name": "banán",
+        "amount": 100.0,
+        "unit": "g"
+      },
+      {
+        "name": "kakao",
+        "amount": 1.0,
+        "unit": "lžička"
+      },
+      {
+        "name": "chia",
+        "amount": 1.0,
+        "unit": "lžička"
+      },
+      {
+        "name": "ořechové máslo",
+        "amount": 1.0,
+        "unit": "lžička"
+      }
+    ],
+    "instructions": "mných ovesných . mandlové nebo alélým b ahnrnácni (pcřcivae 1ď0 íkcah ánneís vlaazře nnaé hmoí rkn ahkiaa on eab poo llnoěvninýuc hr dcho nmeisbkoy s, louzndeočbn idc čkkyy, psřkidoeřijc sek (ovřoicliit e ásla (např. araší banšápne tdkoap slnoíl idra"
+  },
+  {
+    "id": "pdf-017",
+    "name": "Zapečená carbonara s kuřecím a květákem",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "kuřecí maso",
+        "amount": 125.0,
+        "unit": "g"
+      },
+      {
+        "name": "květák",
+        "amount": 0.3,
+        "unit": "ks"
+      },
+      {
+        "name": "krůtí slanina",
+        "amount": 2.0,
+        "unit": "ks"
+      },
+      {
+        "name": "smetanový sýr",
+        "amount": 0.3,
+        "unit": "ks"
+      },
+      {
+        "name": "těstoviny",
+        "amount": 90.0,
+        "unit": "g"
+      },
+      {
+        "name": "parmezán",
+        "amount": 10.0,
+        "unit": "g"
+      },
+      {
+        "name": "mozzarella",
+        "amount": 10.0,
+        "unit": "g"
+      }
+    ],
+    "instructions": "Troubu předehřejte na 180C. Slaninu nakrájejte na proužky a začněte smažit na oleji. Přidejte květák nakrájený na menší růžičky a opékejte chvíli se slaninou. Přidejte krémový sýr a trochu mléka, míchejte na mírném ohni do rozpuštění. Postupně můžete přidat více mléka tak, aby vám vznikla krémová omáčka. Vmíchejte lžíci parmezánu, osolte a opepřete. Vzniklou omáčku smíchejte s uvařenými těstovinami a kuřecím masem. Posypte mozzarellou a dejte zapéct cca na 20 min - do zlatova. Posypte čerstvou petrželkou a podávejte."
+  },
+  {
+    "id": "pdf-018",
+    "name": "Tvarohová placka se sýrem",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "tvaroh",
+        "amount": 125.0,
+        "unit": "g"
+      },
+      {
+        "name": "špaldová mouka",
+        "amount": 45.0,
+        "unit": "g"
+      },
+      {
+        "name": "vejce",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "sýr strouhaný",
+        "amount": 1.0,
+        "unit": "hrst"
+      },
+      {
+        "name": "zakysaná smetana",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "česnek - stroužek",
+        "amount": 1.0,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "V misce smíchejte tvaroh, mouku, vejce a najemno nasekaný kopr. Do těsta přimíchejte hrst strouhaného sýra. Na troše másla placku osmahněte z obou stran (každá strana cca 2-3 minutky - dozlatova) a pro ještě více sýrovou chuť z obou dvou stran posypte při smažení sýrem. Mezitím si připravte dip smícháním všech ingrediencí."
+  },
+  {
+    "id": "pdf-019",
+    "name": "Mrkvové karbanátky s jogurtovým dipem",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "mrkev",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "špaldová mouka",
+        "amount": 5.0,
+        "unit": "lžíce"
+      },
+      {
+        "name": "vejce",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "česnek - stroužek",
+        "amount": 2.0,
+        "unit": "ks"
+      },
+      {
+        "name": "kypřící prášek",
+        "amount": 0.3,
+        "unit": "lžička"
+      },
+      {
+        "name": "olej",
+        "amount": 1.0,
+        "unit": "lžíce"
+      },
+      {
+        "name": "řecký jogurt",
+        "amount": 1.0,
+        "unit": "lžíce"
+      },
+      {
+        "name": "limetka",
+        "amount": 1.0,
+        "unit": "ml"
+      }
+    ],
+    "instructions": "Všechny ingredience na karbanátky smíchejte, nejlepší je to rukama, aby se vše dokonale spojilo. Vytvořte stejně velké placičky a na středním ohni opečte dozlatova. Cca 4 min z každé strany. Mezitím si připravte dip. Česnek prolisujte a vše smíchejte dohromady."
+  },
+  {
+    "id": "pdf-020",
+    "name": "zapečené 2 plátky toustu se šunkou a light hermelínem, 1 vejce",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "+ zelenina toust",
+        "amount": 2.0,
+        "unit": "plátky"
+      },
+      {
+        "name": "+ zelenina šunka",
+        "amount": 2.0,
+        "unit": "plátky"
+      },
+      {
+        "name": "+ zeleninahermelín light",
+        "amount": 2.0,
+        "unit": "plátky"
+      },
+      {
+        "name": "+ zelenina vejce",
+        "amount": 1.0,
+        "unit": "ks"
+      }
+    ],
+    "instructions": ""
+  },
+  {
+    "id": "pdf-021",
+    "name": "špenátová vajíčka",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "vejce",
+        "amount": 2.0,
+        "unit": "ks"
+      },
+      {
+        "name": "čerstvý špenát",
+        "amount": 2.0,
+        "unit": "hrst"
+      },
+      {
+        "name": "chleba",
+        "amount": 2.0,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "Pánev s trochou másla si rozpálíme. Vajíčka si rozbijeme do samostatné misky. Umyté špenátové listy si natrháme a smícháme s vejci. Osolíme, opepříme a přidáme špetku kurkumy. Vylijeme na pánev a pomalu mícháme. Podáváme s pečivem."
+  },
+  {
+    "id": "pdf-022",
+    "name": "Kuřecí sekaná s bramborovou kaší",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "mleté kuřecí",
+        "amount": 167.0,
+        "unit": "g"
+      },
+      {
+        "name": "cibule",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "česnek - stroužek",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "vejce",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "protlak",
+        "amount": 0.5,
+        "unit": "lžíce"
+      },
+      {
+        "name": "kečup",
+        "amount": 0.5,
+        "unit": "lžíce"
+      },
+      {
+        "name": "strouhanka",
+        "amount": 0.5,
+        "unit": "hrst"
+      }
+    ],
+    "instructions": "Předehřejeme si troubu na 200 °C a připravíme si pekáč (25 cm × 30 cm). V pánvi na středním plameni rozehřejeme 2 lžíce olivového oleje a máslo. Jakmile je tuk rozpálený, vložíme do pánve najemno nakrájenou cibuli a najemno nakrájený česnek. Opékáme na středním plameni 3 minuty za stálého míchání. Po opečení přesuneme česnek a cibuli do větší mísy. Do mísy k cibuli s česnekem přidáme mleté kuřecí maso, majoránku, vejce, rajčatový protlak, kečup, strouhanku, sůl a pepř. Vše mícháme tak dlouho, dokud se masová směs zcela nespojí. Až masová směs dosáhne požadované konzistence, připravíme si pekáč. Utrhneme kus alobalu, tak aby pokryl celý pekáč a vložíme ho do pekáče. Z masové směsi vypracujeme ovál a vložíme jej do pekáče s alobalem. Pomocí alobalu maso zabalíme a vytvarujeme tak šišku. Pekáč vložíme do předehřáté trouby a sekanou pečeme na 200 °C po dobu 45 – 50 minut. Po 20 minutách pečení alobal odkryjeme tak aby byl vršek šišky vidět."
+  },
+  {
+    "id": "pdf-023",
+    "name": "Toust s bazalkovým pestem",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "mozzarella",
+        "amount": 120.0,
+        "unit": "g"
+      },
+      {
+        "name": "toast",
+        "amount": 2.0,
+        "unit": "plátek"
+      },
+      {
+        "name": "rajčata",
+        "amount": 2.0,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "Toust potřeme pestem, naskládáme na ně nakrájenou mozzarellu a rajčata. Dáme zapéct a můžeme podávat."
+  },
+  {
+    "id": "pdf-024",
+    "name": "Mini omeletky v muffinformě",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "vejce",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "mléko",
+        "amount": 17.0,
+        "unit": "ml"
+      },
+      {
+        "name": "šunka",
+        "amount": 17.0,
+        "unit": "g"
+      },
+      {
+        "name": "sýr",
+        "amount": 13.0,
+        "unit": "g"
+      },
+      {
+        "name": "zelenina",
+        "amount": 1.0,
+        "unit": "hrst"
+      }
+    ],
+    "instructions": "Troubu předehřej na 180 °C a připrav si formu na muffiny (vymazanou olejem nebo s papírovými košíčky). V míse prošlehej vejce s mlékem, přidej sůl, pepř a nasekané bylinky. Vmíchej šunku, sýr a zeleninu. Směs nalij do formiček (cca do 2/3). Peč cca 15–20 minut, dokud omeletky nezezlátnou a nezpevní."
+  },
+  {
+    "id": "pdf-025",
+    "name": "5 knackebroty, hummus, 1 vejce, zelenina",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "knackebroty",
+        "amount": 5.0,
+        "unit": "ks"
+      },
+      {
+        "name": "hummus",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "vejce",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "zelenina",
+        "amount": 1.0,
+        "unit": "hrst"
+      }
+    ],
+    "instructions": ""
+  },
+  {
+    "id": "pdf-026",
+    "name": "Zelené lasagne s pestem, ricottou, krůtím masem a mozzarellou",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "mleté kuřecí maso",
+        "amount": 62.5,
+        "unit": "g"
+      },
+      {
+        "name": "listový špenát",
+        "amount": 50.0,
+        "unit": "g"
+      },
+      {
+        "name": "ricotta",
+        "amount": 62.5,
+        "unit": "g"
+      },
+      {
+        "name": "bazalkové pesto",
+        "amount": 1.0,
+        "unit": "lžíce"
+      },
+      {
+        "name": "lasagne pláty",
+        "amount": 0.25,
+        "unit": "sáček"
+      },
+      {
+        "name": "mozzarella - strouhaná",
+        "amount": 25.0,
+        "unit": "g"
+      },
+      {
+        "name": "česnek - stroužek",
+        "amount": 0.5,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "Masová směs v jednom hrnci: Ve větší pánvi nebo hrnci rozehřej olivový olej. Přidej nasekaný česnek a krátce orestuj, dokud nezačne vonět (ne hnědnout). Přidej mleté krůtí maso, osol, opepři a přidej špetku muškátového oříšku. Restuj, dokud není maso hotové a rozpadlé. Přidej špenát (čerstvý nebo rozmražený) přímo k masu a nechej ho změknout. Pokud pustí hodně vody, nech chvíli odpařit. Přidej ricottu a pesto: K hotové směsi vmíchej ricottu a pesto. Ochutnej a případně dochuť. Máš hotovou náplň do lasagní. Skládej lasagne: Do zapékací misky dej trochu směsi na dno, pak vrstvu lasagnových plátů, znovu směs… Opakuj vrstvy, dokud nevyužiješ vše. Poslední vrstva by měla být směs a posypaná mozzarellou. Pečení: Přikryj alobalem a peč při 180 °C asi 25 minut. Poté sundej alobal a peč dalších 10 minut odkryté, dokud sýr nezezlátne. Nech odpočinout: Lasagne nech 10 minut po vytažení z trouby stát – lépe se pak krájí."
+  },
+  {
+    "id": "pdf-027",
+    "name": "Tortillové turbo burgery",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "tortilla",
+        "amount": 2.0,
+        "unit": "ks"
+      },
+      {
+        "name": "mleté maso",
+        "amount": 250.0,
+        "unit": "g"
+      },
+      {
+        "name": "cibule červená",
+        "amount": 0.25,
+        "unit": "ks"
+      },
+      {
+        "name": "rajče",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "salát",
+        "amount": 1.0,
+        "unit": "hrst"
+      },
+      {
+        "name": "cheddar",
+        "amount": 2.0,
+        "unit": "plátek"
+      },
+      {
+        "name": "nákládané okurky",
+        "amount": 2.0,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "Maso osolíme a opepříme a v míse pořádně promícháme. Uděláme si z něj v ruce 4 větší placatější burgery a orestujeme je z obou stran (na sucho, tuk na kvalitní pánvi ani není potřeba) Tortillu ohřejeme na 1 minutu v mikrovlnné troubě a do čtvrtky ji nařízneme - podle fotky níže. Jakmile bude maso hotové, tak tortillu obložíme - podle fotky níže. Obloženou tortillu složíme a můžeme podávat."
+  },
+  {
+    "id": "pdf-028",
+    "name": "Kuřecí & bramborové špízy s okurkovým dipem",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "kuřecí maso",
+        "amount": 125.0,
+        "unit": "g"
+      },
+      {
+        "name": "brambory",
+        "amount": 100.0,
+        "unit": "g"
+      },
+      {
+        "name": "červená paprika",
+        "amount": 0.25,
+        "unit": "ks"
+      },
+      {
+        "name": "cibule",
+        "amount": 0.25,
+        "unit": "ks"
+      },
+      {
+        "name": "citron",
+        "amount": 0.25,
+        "unit": "ks"
+      },
+      {
+        "name": "organo",
+        "amount": 0.5,
+        "unit": "lžička"
+      },
+      {
+        "name": "řecký jogurt",
+        "amount": 75.0,
+        "unit": "g"
+      },
+      {
+        "name": "okurka",
+        "amount": 0.25,
+        "unit": "ks"
+      },
+      {
+        "name": "česnek - stroužek",
+        "amount": 1.0,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "Brambory nakrájej na kostičky krátce povař v osolené vodě (cca 10 minut, aby byly poloměkké). Kuře nakrájej na kostky, promíchej s olejem, citronem a kořením. Střídej kousky kuřete, brambor, papriku a cibuli na špejli, osol, opepři a opeč na grilu nebo v troubě (200 °C, 20 minut). Mezitím připrav dip: smíchej jogurt s okurkou, česnekem a bylinkami. Podávej špízy s dipem a třeba i čerstvým salátem."
+  },
+  {
+    "id": "pdf-029",
+    "name": "Turbo bramborák plněný šunkou a sýrem",
+    "category": "Ostatní",
+    "portions": 1,
+    "ingredients": [
+      {
+        "name": "brambory",
+        "amount": 125.0,
+        "unit": "g"
+      },
+      {
+        "name": "vejce",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "špaldová mouka",
+        "amount": 1.0,
+        "unit": "lžíce"
+      },
+      {
+        "name": "česnek - stroužek",
+        "amount": 0.5,
+        "unit": "ks"
+      },
+      {
+        "name": "šunka",
+        "amount": 50.0,
+        "unit": "g"
+      },
+      {
+        "name": "sýr strouhaný",
+        "amount": 30.0,
+        "unit": "g"
+      }
+    ],
+    "instructions": "Připrav těsto: Bramboru nakrájej na menší kousky a vlož do mixéru. Přidej vejce, mouku, česnek, sůl a majoránku. Rozmixuj do hladkého těsta. Osmaž placky: Rozpal nepřilnavou pánev a postříkej ji olejem ve spreji. Nalij polovinu těsta a vytvoř tenčí placku. Smaž dozlatova z obou stran (cca 2–3 minuty z každé strany). Stejně udělej i druhou placku. Naplň a nech rozpustit sýr: Na jednu placku nasyp šunku a sýr. Přiklop druhou plackou. Chvilku prohřej na pánvi, aby se sýr krásně rozpustil"
   }
 ]
