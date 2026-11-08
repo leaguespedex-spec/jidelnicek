@@ -2351,5 +2351,386 @@
       }
     ],
     "instructions": "Připrav těsto: Bramboru nakrájej na menší kousky a vlož do mixéru. Přidej vejce, mouku, česnek, sůl a majoránku. Rozmixuj do hladkého těsta. Osmaž placky: Rozpal nepřilnavou pánev a postříkej ji olejem ve spreji. Nalij polovinu těsta a vytvoř tenčí placku. Smaž dozlatova z obou stran (cca 2–3 minuty z každé strany). Stejně udělej i druhou placku. Naplň a nech rozpustit sýr: Na jednu placku nasyp šunku a sýr. Přiklop druhou plackou. Chvilku prohřej na pánvi, aby se sýr krásně rozpustil"
+  },
+  {
+    "id": "excel-068",
+    "name": "Těstovinový salát s krutím a tzatziki dresingem",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "těstoviny",
+        "amount": 70.0,
+        "unit": "g"
+      },
+      {
+        "name": "krutí maso",
+        "amount": 100.0,
+        "unit": "g"
+      },
+      {
+        "name": "špenát",
+        "amount": 1.0,
+        "unit": "hrst"
+      },
+      {
+        "name": "rajče",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "okurka",
+        "amount": 1.0,
+        "unit": "hrst"
+      },
+      {
+        "name": "feta",
+        "amount": 25.0,
+        "unit": "g"
+      },
+      {
+        "name": "cibule červená",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "jogurt",
+        "amount": 75.0,
+        "unit": "g"
+      },
+      {
+        "name": "česnek",
+        "amount": 1.0,
+        "unit": "ks"
+      }
+    ],
+    "instructions": ""
+  },
+  {
+    "id": "excel-069",
+    "name": "Řízečky v trojobalu",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "kuřecí maso",
+        "amount": 150.0,
+        "unit": "g"
+      },
+      {
+        "name": "vejce",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "tvaroh",
+        "amount": 1.0,
+        "unit": "lžíce"
+      },
+      {
+        "name": "sůl",
+        "amount": 1.0,
+        "unit": "špetka"
+      },
+      {
+        "name": "pepř",
+        "amount": 1.0,
+        "unit": "špetka"
+      },
+      {
+        "name": "chilli",
+        "amount": 1.0,
+        "unit": "špetka"
+      },
+      {
+        "name": "česnek",
+        "amount": 3.0,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "1. Maso nakrájej na stripsy a nalož do směsi z tvarohu, vejce, česneku, soli, pepře, chilli a pár kapek oleje. Ideálně nech několik hodin odležet, ale když spěcháš, stačí alespoň 10 minut. 2. Pak maso vidličkou vyndej ze směsi na talíř a začni obalovat. Nejdřív ho obal v mouce, potom znovu v tvarohové směsi a nakonec ve strouhance. 3. Obalené kousky dej do horkovzdušné fritézy, lehce postříkej olejem ve spreji a peč na 190 °C dozlatova zhruba 12–15 minut, podle velikosti kousků. Ujisti se, že je maso uvnitř důkladně propečené. 4. Podávej s rýží/bramborem a zeleninovým salátem."
+  },
+  {
+    "id": "excel-070",
+    "name": "Medovo hořčičné krůtí s rýží",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "krůtí maso",
+        "amount": 150.0,
+        "unit": "g"
+      },
+      {
+        "name": "hořčice",
+        "amount": 1.0,
+        "unit": "lžíce"
+      },
+      {
+        "name": "med",
+        "amount": 1.0,
+        "unit": "lžička"
+      },
+      {
+        "name": "oliváč",
+        "amount": 1.0,
+        "unit": "lžíce"
+      },
+      {
+        "name": "česnek",
+        "amount": 2.0,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "1. Maso dej do mísy a přidej hořčici, med, olivový olej, česnek, koření a citron. Vše dobře promíchej, aby se maso celé obalilo. Ideálně nech marinovat alespoň 10–20 minut (klidně i déle, pokud máš čas).\n2. Horkovzdušnou fritézu předehřej na 180 °C. Maso rozlož do košíku tak, aby se nepřekrývalo.\n3. Peč cca 12–15 minut. V polovině můžeš maso promíchat nebo otočit. Krůta by měla být krásně zlatá a uvnitř šťavnatá.\n4. Mezitím si uvař rýži podle návodu (klidně do lehce slané vody).\n5. Hotovou krůtu můžeš na závěr zakápnout kapkou citronu a posypat bylinkami. Podávej se zeleninou."
+  },
+  {
+    "id": "excel-071",
+    "name": "Štrůdl do skleničky",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "vločky",
+        "amount": 20.0,
+        "unit": "g"
+      },
+      {
+        "name": "jablko",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "skořice",
+        "amount": 1.0,
+        "unit": "lžička"
+      },
+      {
+        "name": "med",
+        "amount": 1.0,
+        "unit": "lžíce"
+      },
+      {
+        "name": "rozinky",
+        "amount": 1.0,
+        "unit": "hrst"
+      },
+      {
+        "name": "tvaroh",
+        "amount": 65.0,
+        "unit": "g"
+      },
+      {
+        "name": "jogurt",
+        "amount": 35.0,
+        "unit": "g"
+      },
+      {
+        "name": "vlašské ořechy",
+        "amount": 1.0,
+        "unit": "hrst"
+      },
+      {
+        "name": "skořice",
+        "amount": 1.0,
+        "unit": "trochu"
+      }
+    ],
+    "instructions": "1. Na suché pánvi lehce opraž vločky, aby získaly oříškovou chuť.\n\n2. Jablka nakrájej na malé kostičky, dej je na pánev se skořicí a medem. Restuj 5–7 minut, až změknou. Ke konci přidej rozinky.\n\n3. Do skleniček vrstvi: vločky, jablečnou směs, jogurt/tvaroh, oříšky.\n\n4. Zakonči jablky, posyp oříšky a lehce posypej skořicí.\n\nTipy:\n\n* Místo vloček můžeš použít nadrcené celozrnné sušenky.\n* Připrav si takto 4 skleničky, můžeš je mít ke svačině i další dny."
+  },
+  {
+    "id": "excel-072",
+    "name": "Kuřecí špízy",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "kuřecí maso",
+        "amount": 125.0,
+        "unit": "g"
+      },
+      {
+        "name": "brambory",
+        "amount": 100.0,
+        "unit": "g"
+      },
+      {
+        "name": "paprika",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "cibule",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "řecký jogurt",
+        "amount": 75.0,
+        "unit": "g"
+      },
+      {
+        "name": "česnek",
+        "amount": 2.0,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "1. Brambory nakrájej na kostičky a krátce povař v osolené vodě (cca 10 minut, aby byly poloměkké).\n\n2. Kuře nakrájej na kostky, promíchej s olejem, citronem a kořením.\n\n3. Střídej kousky kuřete, brambor, papriky a cibule na špejli. Osol, opepři a opeč na grilu nebo v troubě (200 °C, 20 minut).\n\n4. Mezitím připrav dip: smíchej jogurt s okurkou, česnekem a bylinkami.\n\n5. Podávej špízy s dipem a třeba i čerstvým salátem."
+  },
+  {
+    "id": "excel-073",
+    "name": "Kuřecí karbanátky trochu jinak",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "kuřecí maso",
+        "amount": 125.0,
+        "unit": "g"
+      },
+      {
+        "name": "cibule",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "zakysaná smetana",
+        "amount": 1.0,
+        "unit": "lžíce"
+      },
+      {
+        "name": "mouka",
+        "amount": 1.0,
+        "unit": "lžíce"
+      },
+      {
+        "name": "česnek",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "cheddar",
+        "amount": 13.0,
+        "unit": "g"
+      },
+      {
+        "name": "brambory",
+        "amount": 125.0,
+        "unit": "g"
+      },
+      {
+        "name": "jarní cibulka",
+        "amount": 1.0,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "1. Kuřecí maso nakrájejte na malé kostičky a ve větší misce k němu přisypte všechny ostatní ingredience a pořádně zamíchejte.\n\n2. Smažte na řepkovém oleji dozlatova z obou stran (během toho přikrývejte pokličkou).\n\n3. V průběhu smažení si udělejte bramborovou kaši.\n\n4. Karbanátky podávejte s kaší a jarní cibulkou.\n\nTip: Ingredience vychází na 8 karbanátků."
+  },
+  {
+    "id": "excel-074",
+    "name": "Těstovinový salát",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "kuřecí maso",
+        "amount": 125.0,
+        "unit": "g"
+      },
+      {
+        "name": "hořčice",
+        "amount": 1.0,
+        "unit": "lžíce"
+      },
+      {
+        "name": "salát",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "rajče",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "okurka",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "jogurt",
+        "amount": 50.0,
+        "unit": "g"
+      },
+      {
+        "name": "majonéza",
+        "amount": 20.0,
+        "unit": "g"
+      }
+    ],
+    "instructions": "1. Maso nakrájejte na kostičky, přidejte olej, sůl, pepř, hořčici a pořádně promíchejte.\n\n2. Dejte si vařit do osolené vody těstoviny.\n\n3. Maso dejte na rozpálenou pánev, lehce osmahněte a až se trochu zatáhne, přiklopte pokličkou a nechte alespoň 5 minut podusit.\n\n4. Mezitím, co se budou těstoviny a maso dělat, omyjte si a natrhejte salát, přidejte nakrájená rajčata s okurkou a kukuřici.\n\n5. Uvařené těstoviny sceďte a přidejte společně s masem do salátu.\n\n6. Přidejte bílý jogurt s majonézou a pořádně promíchejte."
+  },
+  {
+    "id": "excel-075",
+    "name": "Tousty bez toustového chleba",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "vejce",
+        "amount": 2.0,
+        "unit": "ks"
+      },
+      {
+        "name": "cibule",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "šunka",
+        "amount": 4.0,
+        "unit": "plátky"
+      },
+      {
+        "name": "sýr",
+        "amount": 4.0,
+        "unit": "plátky"
+      },
+      {
+        "name": "mouka",
+        "amount": 3.0,
+        "unit": "lžíce"
+      }
+    ],
+    "instructions": "Všechno smíchat, zapéct."
+  },
+  {
+    "id": "excel-076",
+    "name": "Guacamole s domacími tortilami",
+    "category": "Ostatní",
+    "portions": 2,
+    "ingredients": [
+      {
+        "name": "krůtí maso",
+        "amount": 150.0,
+        "unit": "g"
+      },
+      {
+        "name": "avokádo",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "cibule",
+        "amount": 1.0,
+        "unit": "ks"
+      },
+      {
+        "name": "rajče",
+        "amount": 1.0,
+        "unit": "ks"
+      }
+    ],
+    "instructions": "1. Do mixéru dáme bílky, špaldovou mouku, sůl a sušený česnek. Chvilku promixujeme a vytvoříme si těsto na tortilly.\n\n2. Na troše olivového oleje si uděláme tortilly, stejně tak jako když děláme třeba palačinky. Z těsta uděláme 2–3 krásné tortilly.\n\n3. Nakrájíme si maso, posypeme ho směsí koření (sůl, pepř, paprika, chilli) a opečeme ho z obou stran, opět na troše olivového oleje.\n\n4. Mezitím si připravíme guacamole – do misky rozmačkáme avokádo, nakrájíme nadrobno cibuli, rajče na menší kousky, šťávu z půlky limetky a špetku soli. Celé to pořádně promícháme.\n\n5. Vezmeme tortillu, dáme do ní guacamole a na to maso a tortillu zabalíme."
   }
 ]

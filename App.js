@@ -130,6 +130,15 @@ const [authLoading, setAuthLoading] = useState(true);
   const [recipes, setRecipes] = useState(initialRecipes);
 const [recipesLoaded, setRecipesLoaded] = useState(false);
   const [week, setWeek] = useState(createEmptyWeek());
+  const [selectedWeek, setSelectedWeek] = useState(0);
+const [monthlyWeeks, setMonthlyWeeks] = useState([
+  createEmptyWeek(),
+  createEmptyWeek(),
+  createEmptyWeek(),
+  createEmptyWeek()
+]);
+
+const [monthlyWeeksLoaded, setMonthlyWeeksLoaded] = useState(false);
   const [otherWeeks, setOtherWeeks] = useState([]);
   const [weekLoaded, setWeekLoaded] = useState(false);
     const [checkedItems, setCheckedItems] = useState({});
@@ -218,11 +227,30 @@ useEffect(() => {
     }
 
     if (data) {
-  setWeek(data.week_data);
-  console.log('Týdenní plán načten z cloudu.');
+  const savedData = data.week_data;
+
+  if (savedData.weeks && Array.isArray(savedData.weeks)) {
+    setMonthlyWeeks(savedData.weeks);
+    const activeIndex = savedData.activeWeekIndex ?? 0;
+    setSelectedWeek(activeIndex);
+    setWeek(savedData.weeks[activeIndex] || createEmptyWeek());
+  } else {
+    setWeek(savedData);
+    setMonthlyWeeks([
+      savedData,
+      createEmptyWeek(),
+      createEmptyWeek(),
+      createEmptyWeek()
+    ]);
+    setSelectedWeek(0);
+  }
+
+  console.log('Jídelní plán načten z cloudu.');
 } else {
   console.log('V cloudu zatím není uložený plán.');
 }
+
+setMonthlyWeeksLoaded(true);
 
 setCloudWeekLoaded(true);
   };
@@ -351,7 +379,7 @@ useEffect(() => {
   saveCheckedItems();
 }, [checkedItems, checkedItemsLoaded]);
 useEffect(() => {
-  if (!weekLoaded || !cloudWeekLoaded || !session?.user?.id || !householdId) return;
+  if (!weekLoaded || !cloudWeekLoaded || !monthlyWeeksLoaded || !session?.user?.id || !householdId) return;
 
   const saveWeek = async () => {
     try {
@@ -362,7 +390,10 @@ useEffect(() => {
         .upsert({
           household_id: householdId,
           user_id: session.user.id,
-          week_data: week,
+          week_data: {
+  weeks: monthlyWeeks,
+  activeWeekIndex: selectedWeek
+},
           updated_at: new Date().toISOString()
         }, {
           onConflict: 'household_id,user_id'
@@ -377,7 +408,7 @@ useEffect(() => {
   };
 
   saveWeek();
-}, [week, weekLoaded, cloudWeekLoaded, session, householdId]);
+}, [week, monthlyWeeks, selectedWeek, weekLoaded, cloudWeekLoaded, monthlyWeeksLoaded, session, householdId]);
   useEffect(() => {
   const loadRecipes = async () => {
     try {
@@ -426,14 +457,22 @@ useEffect(() => {
   const [newInstructions, setNewInstructions] = useState('');
 
   const updateMeal = (slot, recipeId) => {
-    setWeek(old =>
-      old.map((day, index) =>
-        index === selectedDay
-          ? { ...day, [slot]: recipeId }
-          : day
+  setWeek(old => {
+    const updatedWeek = old.map((day, index) =>
+      index === selectedDay
+        ? { ...day, [slot]: recipeId }
+        : day
+    );
+
+    setMonthlyWeeks(oldWeeks =>
+      oldWeeks.map((weekData, index) =>
+        index === selectedWeek ? updatedWeek : weekData
       )
     );
-  };
+
+    return updatedWeek;
+  });
+};
 
   const openRecipePicker = slot => {
     setPickerSlot(slot);
@@ -913,7 +952,37 @@ if (!session) {
             <Text style={styles.subtitle}>
               Vyber si jídlo pro každý den
             </Text>
-
+<View style={{ flexDirection: 'row', gap: 8, marginBottom: 12 }}>
+  {[0, 1, 2, 3].map((index) => (
+    <TouchableOpacity
+      key={index}
+      onPress={() => {
+  setMonthlyWeeks(oldWeeks =>
+    oldWeeks.map((weekData, i) =>
+      i === selectedWeek ? week : weekData
+    )
+  );
+  setSelectedWeek(index);
+  setWeek(monthlyWeeks[index]);
+  setSelectedDay(0);
+}}
+      style={{
+        flex: 1,
+        padding: 10,
+        borderRadius: 8,
+        backgroundColor: selectedWeek === index ? '#2563eb' : '#e5e7eb',
+        alignItems: 'center',
+      }}
+    >
+      <Text style={{
+        color: selectedWeek === index ? '#ffffff' : '#333333',
+        fontWeight: 'bold',
+      }}>
+        {index + 1}. týden
+      </Text>
+    </TouchableOpacity>
+  ))}
+</View>
             <ScrollView
               horizontal
               showsHorizontalScrollIndicator={false}
