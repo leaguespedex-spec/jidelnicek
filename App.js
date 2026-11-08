@@ -145,6 +145,7 @@ const [monthlyWeeksLoaded, setMonthlyWeeksLoaded] = useState(false);
     const [checkedItemsLoaded, setCheckedItemsLoaded] = useState(false);
     const [itemStores, setItemStores] = useState({});
     const [itemStoresLoaded, setItemStoresLoaded] = useState(false);
+    const [shoppingCloudLoaded, setShoppingCloudLoaded] = useState(false);
   const [selectedDay, setSelectedDay] = useState(0);
   const [selectedRecipe, setSelectedRecipe] = useState(null);
   const [pickerSlot, setPickerSlot] = useState(null);
@@ -302,82 +303,135 @@ useEffect(() => {
       return;
     }
 
-    const plans = data
+    // Každý člen má vlastní uložený plán. V databázi je nový formát
+    // zabalený do objektu { weeks, activeWeekIndex }, zatímco starší
+    // záznamy mohou být přímo polem dnů. Pro nákupy potřebujeme vždy
+    // samotné pole dnů právě vybraného týdne.
+    const plans = (data || [])
       .filter(plan => plan.user_id !== session.user.id)
-      .map(plan => plan.week_data);
+      .map(plan => {
+        const savedData = plan.week_data;
+
+        if (savedData && Array.isArray(savedData.weeks)) {
+          const activeIndex = Number.isInteger(savedData.activeWeekIndex)
+            ? savedData.activeWeekIndex
+            : 0;
+
+          return savedData.weeks[activeIndex] || createEmptyWeek();
+        }
+
+        return Array.isArray(savedData) ? savedData : createEmptyWeek();
+      });
 
     setOtherWeeks(plans);
-    console.log('Načteny plány ostatních členů:', plans.length);
+    console.log('Načteny aktivní týdny ostatních členů:', plans.length);
   };
 
   loadOtherWeeks();
 }, [session, householdId, cloudWeekLoaded]);
+// Načtení společného nákupního seznamu z databáze a živé synchronizace.
 useEffect(() => {
-  const loadCheckedItems = async () => {
-    try {
-      const savedItems = await AsyncStorage.getItem('checkedItems');
+  if (!session?.user?.id || !householdId) return;
 
-      if (savedItems !== null) {
-        setCheckedItems(JSON.parse(savedItems));
+  let active = true;
+  setShoppingCloudLoaded(false);
+
+  const loadSharedShopping = async () => {
+    const { data, error } = await supabase
+      .from('shared_shopping_items')
+      .select('item_key, checked, store')
+      .eq('household_id', householdId);
+
+    if (error) {
+      console.log('Chyba při načítání společných nákupů:', error.message);
+      return;
+    }
+
+    if (!active) return;
+
+    const nextChecked = {};
+    const nextStores = {};
+    (data || []).forEach(row => {
+      nextChecked[row.item_key] = !!row.checked;
+      if (row.store) nextStores[row.item_key] = row.store;
+    });
+
+    setCheckedItems(nextChecked);
+    setItemStores(nextStores);
+    setShoppingCloudLoaded(true);
+  };
+
+  loadSharedShopping();
+
+  const channel = supabase
+    .channel(`shared-shopping-${householdId}`)
+    .on(
+      'postgres_changes',
+      {
+        event: '*',
+        schema: 'public',
+        table: 'shared_shopping_items',
+        filter: `household_id=eq.${householdId}`,
+      },
+      payload => {
+        if (!active || !payload.new?.item_key && !payload.old?.item_key) return;
+
+        const row = payload.new || payload.old;
+        const key = row.item_key;
+        if (!key) return;
+
+        if (payload.eventType === 'DELETE') {
+          setCheckedItems(old => {
+            const next = { ...old };
+            delete next[key];
+            return next;
+          });
+          setItemStores(old => {
+            const next = { ...old };
+            delete next[key];
+            return next;
+          });
+        } else {
+          setCheckedItems(old => ({ ...old, [key]: !!payload.new.checked }));
+          setItemStores(old => {
+            const next = { ...old };
+            if (payload.new.store) next[key] = payload.new.store;
+            else delete next[key];
+            return next;
+          });
+        }
       }
-    } catch (error) {
-      console.log('Chyba při načítání nákupního seznamu:', error);
-    } finally {
-      setCheckedItemsLoaded(true);
-    }
+    )
+    .subscribe(status => {
+      console.log('Synchronizace nákupů:', status);
+    });
+
+  return () => {
+    active = false;
+    supabase.removeChannel(channel);
   };
+}, [session?.user?.id, householdId]);
 
-  loadCheckedItems();
-}, []);
-useEffect(() => {
-  const loadItemStores = async () => {
-    try {
-      const savedStores = await AsyncStorage.getItem('itemStores');
+// Uložení jedné změněné položky do společné tabulky.
+const saveSharedShoppingItem = async (item, checkedValue, storeValue) => {
+  if (!householdId || !shoppingCloudLoaded) return;
 
-      if (savedStores !== null) {
-        setItemStores(JSON.parse(savedStores));
-      }
-    } catch (error) {
-      console.log('Chyba při načítání obchodů:', error);
-    } finally {
-      setItemStoresLoaded(true);
-    }
-  };
+  const { error } = await supabase
+    .from('shared_shopping_items')
+    .upsert({
+      household_id: householdId,
+      item_key: item.key,
+      name: item.name,
+      unit: item.unit,
+      checked: checkedValue,
+      store: storeValue,
+      updated_at: new Date().toISOString(),
+    }, { onConflict: 'household_id,item_key' });
 
-  loadItemStores();
-}, []);
-useEffect(() => {
-  if (!itemStoresLoaded) return;
-
-  const saveItemStores = async () => {
-    try {
-      await AsyncStorage.setItem(
-        'itemStores',
-        JSON.stringify(itemStores)
-      );
-    } catch (error) {
-      console.log('Chyba při ukládání obchodů:', error);
-    }
-  };
-
-  saveItemStores();
-}, [itemStores, itemStoresLoaded]);
-useEffect(() => {
-  if (!checkedItemsLoaded) return;
-
-  const saveCheckedItems = async () => {
-    try {
-      await AsyncStorage.setItem(
-        'checkedItems',
-        JSON.stringify(checkedItems)
-      );
-    } catch (error) {
-      console.log('Chyba při ukládání nákupního seznamu:', error);
-    }
-  };
-
-  saveCheckedItems();
-}, [checkedItems, checkedItemsLoaded]);
+  if (error) {
+    console.log('Chyba při ukládání společného nákupu:', error.message);
+  }
+};
 useEffect(() => {
   if (!weekLoaded || !cloudWeekLoaded || !monthlyWeeksLoaded || !session?.user?.id || !householdId) return;
 
@@ -1083,7 +1137,7 @@ if (!session) {
           <>
             {header('Nákupní seznam')}
             <Text style={styles.subtitle}>
-              Suroviny podle tvého týdenního plánu
+              Suroviny podle týdenních plánů domácnosti
             </Text>
 
             <View style={styles.whiteCard}>
@@ -1104,12 +1158,11 @@ shoppingItems.map(item => {
     <TouchableOpacity
       key={item.key}
       style={styles.ingredientRow}
-      onPress={() =>
-        setCheckedItems(old => ({
-          ...old,
-          [item.key]: !old[item.key],
-        }))
-      }
+      onPress={() => {
+        const nextChecked = !checked;
+        setCheckedItems(old => ({ ...old, [item.key]: nextChecked }));
+        saveSharedShoppingItem(item, nextChecked, itemStores[item.key] || null);
+      }}
     >
       <View style={styles.shoppingLeft}>
         <View style={[
@@ -1150,12 +1203,11 @@ shoppingItems.map(item => {
           { borderColor: store.color },
           selected && { backgroundColor: store.color }
         ]}
-        onPress={() =>
-          setItemStores(old => ({
-            ...old,
-            [item.key]: selected ? null : store.id,
-          }))
-        }
+        onPress={() => {
+          const nextStore = selected ? null : store.id;
+          setItemStores(old => ({ ...old, [item.key]: nextStore }));
+          saveSharedShoppingItem(item, checked, nextStore);
+        }}
       >
         <Text style={[
           styles.storeButtonText,
